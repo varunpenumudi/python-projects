@@ -1,6 +1,6 @@
 # QR generator
 ## Description
-This project can generate a qr code for any text you give. You can change the color, size, border of the qrcode. 
+This project can generate a qr code for any text you give. You can change the color, size, border of the qrcode using this project. This makes easy to generate qr code that you would need for various purposes .
 ![Alt text](project_image.png)
 
 ## About Project
