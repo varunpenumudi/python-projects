@@ -4,7 +4,7 @@ This project can generate a qr code for any text you give. You can change the co
 ![Alt text](project_image.png)
 
 ## About Project
-This project is made with segno library in python. Segno is a library that helops to generate qr codes for any kind of text you can give as  input. you can create qr codes in different sizes and colors using this library.
+This project is made with segno library in python. Segno is a python library that helps to generate qr codes for any kind of text you can give as input. you can create qr codes in different sizes and colors using this library.
 
 ## Difficulty Level
 ### Easy: ⭐⭐
