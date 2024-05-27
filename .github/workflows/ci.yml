@@ -8,4 +8,4 @@ jobs:
       - uses: actions/checkout@v2
       - name: Tests for primes module
         run: |
-          python3 test_primes.py    
+          python3 testing/test_primes.py  

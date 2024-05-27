@@ -3,7 +3,7 @@ def is_prime(n):
         return False
     
     for num in range(2,n):
-        if num%2 == 0:
+        if n%num == 0:
             return False
         
     return True
