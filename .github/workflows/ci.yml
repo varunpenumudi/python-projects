@@ -7,5 +7,5 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Tests for primes module
-      - run: |
+        run: |
           python test.py    
