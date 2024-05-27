@@ -1,0 +1,11 @@
+name: Testing
+on: push
+
+jobs:
+  test_projects:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Tests for primes module
+      - run: |
+          python test.py    
