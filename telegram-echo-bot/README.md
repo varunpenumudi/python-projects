@@ -36,7 +36,7 @@ This is a simple Telegram bot built using the `python-telegram-bot` library. The
 2. **Install dependencies:**  
 
    ```bash  
-   pip install python-telegram-bot python-dotenv  
+   pip install -r requirements.txt 
    ```  
 
 3. **Create a `.env` file:**  
